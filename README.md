@@ -1,6 +1,6 @@
 # Hi Everyone welcome to My Github 👋
 
-![PoomGamerE](https://raw.githubusercontent.com/PoomGamerE/PoomGamerE/master/hushub.jpg)
+<!-- ![PoomGamerE](https://raw.githubusercontent.com/PoomGamerE/PoomGamerE/master/hushub.jpg) -->
 
 ## Info
 
