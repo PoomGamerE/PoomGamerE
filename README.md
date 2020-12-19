@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 <details>
   <summary>📈 Top Lang</summary>
 
-<p align="center"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoomGamerE&hide=TeX&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomGamerE&hide=TeX&layout=compact" alt="PoomGamerE" />
 
 </details>
