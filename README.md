@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 <a href="https://facebook.com/poom.cjrp">
   <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+<a href="https://youtube.com/c/PoomGamerEmber">
+  <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://www.twitch.tv/poomgamere">
+  <img align="left" alt="Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+</a>
 
 
 📈 My GitHub Stats
