@@ -48,3 +48,11 @@ Here are some ideas to get you started:
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PoomGamerE&show_icons=true&theme=gotham" alt="PoomGamerE" />
+
+
+<details>
+  <summary>:zap: Spotify Playing 🎧</summary>
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/5j9te30qmfhxzarltkedgpppg)
+
+</details>
