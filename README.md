@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=PoomGamerE.PoomGamerE)
 
 📈 My GitHub Stats
 
