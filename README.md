@@ -8,13 +8,15 @@ Hi there, I'm a Programmer at Hushub.
 
 - :school: I'm currently study at Prommanusorn Phetchaburi School.
 
+<!--  // Comment
+
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suthipong-chongchamruspun/)](https://www.linkedin.com/in/suthipong-chongchamruspun/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/poom_suthipong/)](https://instagram.com/poom_suthipong)
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/PoomGamerEmber)](https://www.youtube.com/c/PoomGamerEmber)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@PoomGamerE/)](https://medium.com/@PoomGamerE)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poom.suthipong@hushub.co)](mailto:poom.suthipong@hushub.co)
 
-<!--
+
 **PoomGamerE/PoomGamerE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+// Comment -->
 
 <a href="https://github.com/PoomGamerE">
   <img align="left" alt=Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
