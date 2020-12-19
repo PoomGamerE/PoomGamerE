@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/suthipong-chongchamruspun/">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://open.spotify.com/user/5j9te30qmfhxzarltkedgpppg">
+  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://facebook.com/poom.cjrp">
+  <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+
 
 📈 My GitHub Stats
 
