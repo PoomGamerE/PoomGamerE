@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>Top Lang</summary>
+  <summary>📈 Top Lang</summary>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoomGamerE&hide=TeX&layout=compact)
+<p align="center"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoomGamerE&hide=TeX&layout=compact)
 
 </details>
