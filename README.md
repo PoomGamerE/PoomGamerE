@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone welcome to My Github 👋
 
 <!--
 **PoomGamerE/PoomGamerE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/NvWGwGG">
   <img align="left" alt=Hushub Public Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+<a href="https://www.linkedin.com/in/suthipong-chongchamruspun/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PoomGamerE&show_icons=true&theme=gotham" alt="PoomGamerE" />
