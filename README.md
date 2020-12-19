@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 <a href="https://www.twitch.tv/poomgamere">
   <img align="left" alt="Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
+<a href="https://paypal.me/PoomGamerE">
+  <img align="left" alt="Paypal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198416847096">
+  <img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
+</a>
 
 
 📈 My GitHub Stats
