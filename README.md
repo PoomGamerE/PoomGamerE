@@ -1,4 +1,12 @@
-### Hi Everyone welcome to My Github 👋
+# Hi Everyone welcome to My Github 👋
+
+![PoomGamerE](https://raw.githubusercontent.com/PoomGamerE/PoomGamerE/master/hushub.jpg)
+
+## Info
+
+Hi there, I'm a Programmer at Hushub.
+
+- :school: I'm currently study at Prommanusorn Phetchaburi School.
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suthipong-chongchamruspun/)](https://www.linkedin.com/in/suthipong-chongchamruspun/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/poom_suthipong/)](https://instagram.com/poom_suthipong)
