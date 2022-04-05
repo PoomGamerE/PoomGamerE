@@ -1,74 +1,30 @@
-# Hi Everyone welcome to Poom Suthipong Github 👋
+<h1 align="center">Hi Everyone 👋 welcome to Poom Suthipong Github</h1>
+<h3 align="center">I am a full stack developer. I like to seek knowledge and dream of creating new technologies.</h3>
 
-<!-- ![PoomGamerE](https://raw.githubusercontent.com/PoomGamerE/PoomGamerE/master/hushub.jpg) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poomgamere" alt="poomgamere" /></a> </p>
 
-## Info
+- 👨‍💼 Work as a CTO at [มีมวิทยาศาสตร์](https://www.facebook.com/memewithyasart/)
 
-Hi there, I'm a Programmer at Hushub.
+- ‎‍💼 Work as a IT Support at **โรงเรียนพรหมานุสรณ์จังหวัดเพชรบุรี**
 
-- :school: I'm currently study at Prommanusorn Phetchaburi School.
+- 👑 Work as a Admin at [ระบบนิเวศ แห่ง มีมวิทยาศาสตร์ Official](https://www.facebook.com/groups/sciencememesecosystem)
 
-<!--  // Comment
+- 👨‍💼 Work as a CEO at [Hushub Ordinary Partnership](https://hushub.ml/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suthipong-chongchamruspun/)](https://www.linkedin.com/in/suthipong-chongchamruspun/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/poom_suthipong/)](https://instagram.com/poom_suthipong)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/PoomGamerEmber)](https://www.youtube.com/c/PoomGamerEmber)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@PoomGamerE/)](https://medium.com/@PoomGamerE)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poom.suthipong@hushub.co)](mailto:poom.suthipong@hushub.co)
+- 📫 Can contact me at **contact@poom.ml**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/poom_suthipong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poom_suthipong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suthipong-chongchamruspun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suthipong-chongchamruspun" height="30" width="40" /></a>
+<a href="https://fb.com/poom.cjrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poom.cjrp" height="30" width="40" /></a>
+<a href="https://instagram.com/poom_suthipong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poom_suthipong" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/poomgamerember" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="poomgamerember" height="30" width="40" /></a>
+</p>
 
-**PoomGamerE/PoomGamerE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poomgamere&show_icons=true&locale=en&layout=compact" alt="poomgamere" /></p>
 
-- 🔭 I’m currently working on @Hushub
-- 🌱 I’m currently learning at Prommanusorn Phetchaburi School
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-// Comment -->
-
-<a href="https://github.com/PoomGamerE">
-  <img align="left" alt=Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://discord.gg/NvWGwGG">
-  <img align="left" alt=Hushub Public Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/suthipong-chongchamruspun/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/5j9te30qmfhxzarltkedgpppg">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://facebook.com/poom.cjrp">
-  <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<a href="https://youtube.com/c/PoomGamerEmber">
-  <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-<a href="https://www.twitch.tv/poomgamere">
-  <img align="left" alt="Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
-</a>
-<a href="https://paypal.me/PoomGamerE">
-  <img align="left" alt="Paypal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198416847096">
-  <img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=PoomGamerE.PoomGamerE)
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PoomGamerE&show_icons=true&theme=gotham" alt="PoomGamerE" />
-
-
-<details>
-  <summary>📈 Top Lang</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomGamerE&hide=TeX&layout=compact" alt="PoomGamerE" />
-
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poomgamere&show_icons=true&locale=en" alt="poomgamere" /></p>
