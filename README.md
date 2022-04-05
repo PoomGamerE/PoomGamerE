@@ -3,6 +3,8 @@
 
 - 👨‍💼 Work as a CTO at [มีมวิทยาศาสตร์](https://www.facebook.com/memewithyasart/)
 
+![มีมวิทยาศาสตร์](https://github.com/PoomGamerE/PoomGamerE/blob/main/memewithyasart%20banner%20resize.png?raw=true)
+
 - ‎‍💼 Work as a IT Support at **โรงเรียนพรหมานุสรณ์จังหวัดเพชรบุรี**
 
 - 👑 Work as a Admin at [ระบบนิเวศ แห่ง มีมวิทยาศาสตร์ Official](https://www.facebook.com/groups/sciencememesecosystem)
