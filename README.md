@@ -5,12 +5,10 @@
 
 ![มีมวิทยาศาสตร์](https://github.com/PoomGamerE/PoomGamerE/blob/main/memewithyasart%20banner%20resize.png?raw=true)
 
-- ‎‍💼 Work as a IT Support at **โรงเรียนพรหมานุสรณ์จังหวัดเพชรบุรี**
+- ‎‍💼 In the past, I Work as a IT Support at **โรงเรียนพรหมานุสรณ์จังหวัดเพชรบุรี**
 
 - 👑 Work as a Admin at [ระบบนิเวศ แห่ง มีมวิทยาศาสตร์ Official](https://www.facebook.com/groups/sciencememesecosystem)
-
-- 👨‍💼 Work as a CEO at [Hushub Ordinary Partnership](https://hushub.ml/)
-
+  
 - 📫 Can contact me at **contact@poom.ml**
 
 <h3 align="left">Connect with me:</h3>
