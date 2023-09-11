@@ -1,14 +1,6 @@
 <h1 align="center">Hi Everyone! welcome to Poom Suthipong Github 👋</h1>
 <h3 align="center">I am a full stack developer. I like to seek knowledge and dream of creating new technologies.</h3>
 
-- 👨‍💼 Work as a CTO at [มีมวิทยาศาสตร์](https://www.facebook.com/memewithyasart/)
-
-![มีมวิทยาศาสตร์](https://github.com/PoomGamerE/PoomGamerE/blob/main/memewithyasart%20banner%20resize.png?raw=true)
-
-- ‎‍💼 In the past, I Work as a IT Support at **โรงเรียนพรหมานุสรณ์จังหวัดเพชรบุรี**
-
-- 👑 Work as a Admin at [ระบบนิเวศ แห่ง มีมวิทยาศาสตร์ Official](https://www.facebook.com/groups/sciencememesecosystem)
-  
 - 📫 Can contact me at **suthipong.c@obec.moe.go.th**
 
 <h3 align="left">Connect with me:</h3>
