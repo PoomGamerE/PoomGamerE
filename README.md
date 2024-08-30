@@ -24,3 +24,4 @@
 
 </details>
 
+[![An image of @poomgamere's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poomgamere)](https://holopin.io/@poomgamere)
