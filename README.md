@@ -23,5 +23,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomGamerE&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="PoomGamerE" />
 
 </details>
-
-[![An image of @poomgamere's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poomgamere)](https://holopin.io/@poomgamere)
