@@ -11,9 +11,6 @@
 </p>
 
 <br/>
-📈 My Total GitHub Stats
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoomGamerE&theme=tokyonight&hide_border=false" alt="PoomGamerE" />
 
 <details>
   <summary>📈 GitHub Stats & Top Lang</summary>
