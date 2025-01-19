@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone! welcome to Poom Suthipong Github 👋</h1>
-<h3 align="center">I am a full stack developer. I like to seek knowledge and dream of creating new technologies.</h3>
+<h3 align="center">I like to seek knowledge and dream of creating new technologies.</h3>
 
 - 📫 Can contact me at **suthipong.c@obec.moe.go.th**
 
